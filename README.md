@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+Hello Folks!
+
+currently a junior at Kean University in Information Technology. 
